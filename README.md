@@ -10,13 +10,13 @@ Tabular data is still an unconquered area of deep learning where professionals c
 
 ### Table of Contents:
 1. Google Colab files:
-  a, EDA
-  b, Main analysis workflow
+  - EDA
+  - Main analysis workflow
 3. Excel tables:
-  a, EDA tables
-  b, RQ1 tables
-  c, RQ2 tables
-  d, RQ3 tables
+  - EDA tables
+  - RQ1 tables
+  - RQ2 tables
+  - RQ3 tables
 
 ### How to Use the Project:
 The text of the Thesis will be published openly at the website of the Tilburg University's Library later at this link: "Coming soon..."
