@@ -26,7 +26,7 @@ Feel free to run the Google Colab file and reference the work if you would like 
   author = {Balázs Gönczy}, <br />
   title = {{TABULAR EMPLOYEE RETENTION PREDICTION}}, <br />
   year = {2022}, <br />
-  url = {https://github.com/balazsgonczy/tiu_dss_msc_thesis}, <br />
+  url = {https://<i></i>github.com/balazsgonczy/tiu_dss_msc_thesis}, <br />
 } <br />
 
 ### Credits:
