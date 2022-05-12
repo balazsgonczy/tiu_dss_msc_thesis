@@ -12,22 +12,22 @@ Tabular data is still an unconquered area of deep learning where professionals c
 1. Google Colab files:
   - EDA
   - Main analysis workflow
-3. Excel tables:
+2. Excel tables:
   - EDA tables
   - RQ1 tables
   - RQ2 tables
   - RQ3 tables
 
 ### How to Use the Project:
-The text of the Thesis will be published openly at the website of the Tilburg University's Library later at this link: "Coming soon..."
-Feel free to run the Google Colab file and reference the work if you would like to use it later as follows:
+The text of the Thesis will be published openly at the website of the Tilburg University's Library later at this link: "Coming soon..." <br />
+Feel free to run the Google Colab file and reference the work if you would like to use it later as follows: <br />
 
-@online{,
-  author = {Balázs Gönczy},
-  title = {{TABULAR EMPLOYEE RETENTION PREDICTION}},
-  year = {2021},
-  url = {https://github.com/balazsgonczy/tiu_dss_msc_thesis},
-}
+@online{, <br />
+  author = {Balázs Gönczy}, <br />
+  title = {{TABULAR EMPLOYEE RETENTION PREDICTION}}, <br />
+  year = {2021}, <br />
+  url = {https://github.com/balazsgonczy/tiu_dss_msc_thesis}, <br />
+} <br />
 
 ### Credits:
 Find the links of the code sources used in the Colab file, in above each code cell, where it is applicable.
